@@ -1,0 +1,6 @@
+Dataset,Raw rows,Missing values,Duplicate rows
+mandi_master,60,25,3
+mandi_arrivals,25750,13261,750
+price_and_msp,12000,2008,0
+weather_sensors,15000,6900,0
+transport_logistics,10400,5776,400

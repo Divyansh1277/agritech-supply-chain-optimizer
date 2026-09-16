@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+plotly
+scipy
+scikit-learn
+openpyxl
+pydantic
+google-genai
+sqlalchemy
